@@ -9,7 +9,7 @@ Provides capability of selecting multiple values with Nova Resource filter.
 You can install the package in to a Laravel app that uses [Nova](https://nova.laravel.com) via composer:
 
 ```bash
-composer require rcknr/nova-multiselect-filter
+composer require teuunn/nova-multiselect-filter
 ```
 
 ## Usage
