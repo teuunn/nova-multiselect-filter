@@ -1,6 +1,6 @@
 <?php
 
-namespace rcknr\Nova\Filters;
+namespace teuunn\Nova\Filters;
 
 use Laravel\Nova\Nova;
 use Laravel\Nova\Events\ServingNova;
